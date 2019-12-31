@@ -1,5 +1,9 @@
 # Book Report
 
+## Contact Us
+
+Get in touch with us with any questions or comments at yourbookreportapp@gmail.com. Enjoy! 
+
 ## Privacy Policy for Your Book Report
 
 This Privacy Policy document contains types of information that is collected and recorded by Your Book Report and how we use it.
